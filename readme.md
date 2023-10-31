@@ -1,5 +1,6 @@
 ## 系统简介
-* 采用前后端分离的模式，前端框架选型vue-element-admin，前端代码地址：     
+* 采用前后端分离的模式，前端框架选型vue-element-admin，前端代码地址：
+* https://github.com/heweijiqn/exam-front 
 * 后端采用Spring Boot、Spring Cloud & Alibaba、Mybatis-plus。
 * 注册中心、配置中心选型Nacos，权限认证使用OAuth2。
 
@@ -23,24 +24,24 @@ exam-ning-springcloud-v1
 6. 考试管理：考试、阅卷（客观题自动阅卷）、查看错题。
 
 ## 演示图
-![登录](doc/imgs/01登录.png)
-***
-![首页](doc/imgs/02首页.png)
-***
-![用户管理](doc/imgs/03用户管理.png)
-***
-![试卷列表](doc/imgs/04试卷列表.png)
-***
-![试题列表](doc/imgs/05试题列表.png)
-***
-![添加试题](doc/imgs/06添加试题.png)
-***
-![开始考试](doc/imgs/07开始考试.png)
-***
-![查看成绩](doc/imgs/08查看成绩.png)
+![image](https://github.com/heweijiqn/exam-backend/assets/95403358/70361109-faeb-40c7-aa4a-978787bc3d3a)
+![image](https://github.com/heweijiqn/exam-backend/assets/95403358/866c0513-29e2-4935-a4cd-c2fe3187d7ca)
+![image](https://github.com/heweijiqn/exam-backend/assets/95403358/eda3cb08-0f55-4c9a-b9f2-0f6d76a167a2)
+![image](https://github.com/heweijiqn/exam-backend/assets/95403358/7dd73a87-6186-43df-abac-b830c3d62dd5)
+![image](https://github.com/heweijiqn/exam-backend/assets/95403358/d21509ff-dac4-4d73-bd88-8abee4936bbf)
+![image](https://github.com/heweijiqn/exam-backend/assets/95403358/b4489084-ac5d-4e17-a4d7-04da6374a8ed)
+![image](https://github.com/heweijiqn/exam-backend/assets/95403358/946eb8d7-277d-486a-b8f1-da04ca76b464)
+![image](https://github.com/heweijiqn/exam-backend/assets/95403358/e87c1c31-65bc-4598-a3df-7c002554f67f)
+
+
+
+
+
+
+
 
 ## 部署文档
-1. 初始化数据库，数据库脚本文件在doc/sql目录，分别创建 exam-ning-springcloud-exam 和 exam-ning-springcloud-user 数据库，导入对应sql文件。 
+1. 初始化数据库，分别创建 exam-ning-springcloud-exam 和 exam-ning-springcloud-user 数据库，导入对应sql文件。 
 2. 启动Nacos，下载Nacos，运行startup.cmd。
 ```
 【注意事项】
