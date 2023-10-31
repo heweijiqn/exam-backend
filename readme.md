@@ -7,7 +7,6 @@
 ## 系统模块
 ~~~
 exam
-├── doc                                 // 文档
 ├── exam-api           // 公共模块
 ├── exam-auth          // 认证中心[9527]
 ├── exam-gateway       // 网关模块[8080]
