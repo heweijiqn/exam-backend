@@ -6,13 +6,13 @@
 
 ## 系统模块
 ~~~
-exam-ning-springcloud-v1
+exam
 ├── doc                                 // 文档
-├── exam-ning-springcloud-api           // 公共模块
-├── exam-ning-springcloud-auth          // 认证中心[9527]
-├── exam-ning-springcloud-gateway       // 网关模块[8080]
-├── exam-ning-springcloud-system-exam   // 考试模块[9201]
-├── exam-ning-springcloud-system-user   // 系统模块[9202]
+├── exam-api           // 公共模块
+├── exam-auth          // 认证中心[9527]
+├── exam-gateway       // 网关模块[8080]
+├── exam-system-exam   // 考试模块[9201]
+├── exam-system-user   // 系统模块[9202]
 ~~~
 
 ## 系统功能
