@@ -41,7 +41,7 @@ exam-ning-springcloud-v1
 
 ## 部署文档
 1. 初始化数据库，数据库脚本文件在doc/sql目录，分别创建 exam-ning-springcloud-exam 和 exam-ning-springcloud-user 数据库，导入对应sql文件。 
-2. 启动Nacos，下载Nacos，运行startup.cmd。参考：https://nacos.io/zh-cn/docs/quick-start.html
+2. 启动Nacos，下载Nacos，运行startup.cmd。
 ```
 【注意事项】
 1、注意下 nacos 的版本，本项目依赖升级后 nacos-client 的版本是 2.0.3。
