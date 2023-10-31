@@ -3,6 +3,7 @@
 * https://github.com/heweijiqn/exam-front 
 * 后端采用Spring Boot、Spring Cloud & Alibaba、Mybatis-plus。
 * 注册中心、配置中心选型Nacos，权限认证使用OAuth2。
+* 主要用了客户端调用工具OpenFeign、服务降级Sentinel、服务网关APIGateway
 
 ## 系统模块
 ~~~
