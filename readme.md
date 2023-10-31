@@ -48,7 +48,6 @@ exam-ning-springcloud-v1
 1、注意下 nacos 的版本，本项目依赖升级后 nacos-client 的版本是 2.0.3。
 2. 启动Redis。
 3. 依次启动exam-ning-springcloud-gateway、exam-ning-springcloud-auth、exam-ning-springcloud-system-exam、exam-ning-springcloud-system-user。
-4. 下载前端代码：https://gitee.com/ningzxspace/exam-ning-web-v1 或 https://github.com/ningzuoxin/exam-ning-web-v1，安装依赖【npm install】，本地运行【npm run dev】。
-5. 浏览器访问http://localhost:9528/，学生【student1/123456】、老师【teacher1/123456】、管理员【system/system】。
-6. 接口文档地址：http://127.0.0.1:8080/swagger-ui.html
+4. 浏览器访问http://localhost:9528/，账号密码 ： system/system。
+5. 接口文档地址：http://127.0.0.1:8080/swagger-ui.html
 
