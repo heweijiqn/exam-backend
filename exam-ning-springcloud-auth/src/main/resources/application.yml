@@ -1,0 +1,14 @@
+server:
+  port: 9527
+
+spring:
+  application:
+    name: exam-ning-auth
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848 # 服务注册中心
+  redis:
+    host: 192.168.188.188
+    port: 6379
+    database: 15
