@@ -1,3 +1,6 @@
+# pull代码请先star~~~
+
+
 ## 系统简介
 * 采用前后端分离的模式，前端框架选型vue-element-admin，前端代码地址：
 * https://github.com/heweijiqn/exam-front 
@@ -44,8 +47,8 @@ exam-ning
 1. 初始化数据库，分别创建 exam-ning-springcloud-exam 和 exam-ning-springcloud-user 数据库，导入对应sql文件。 
 2. 启动Nacos，下载Nacos，运行startup.cmd。
 ```
-【注意事项】
-1、注意下 nacos 的版本，本项目依赖升级后 nacos-client 的版本是 2.0.3。
+
+1、 nacos 的版本，本项目依赖升级后 nacos-client 的版本是 2.0.3。
 2. 启动Redis。
 3. 依次启动exam-ning-springcloud-gateway、exam-ning-springcloud-auth、exam-ning-springcloud-system-exam、exam-ning-springcloud-system-user。
 4. 浏览器访问http://localhost:9528/，账号密码 ： system/system。
